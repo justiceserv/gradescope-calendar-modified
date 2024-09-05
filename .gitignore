@@ -1,5 +1,5 @@
-venv/* 
 !venv/lib/python3.12/site-packages/gradescopecalendar/**
 !venv/lib/python3.12/site-packages/gradescopecalendar-0.0.9.dist-info/**
+venv/* 
 *.json
 *.log
