@@ -19,7 +19,7 @@ logger = logging.getLogger("gradescopecalendar" if LOGGING_ENABLED else None)
 logger.setLevel(LOGGING_LEVEL)
 logger.debug(f"Log of Gradescope Automation @ {datetime.datetime.now()}")
 
-# GradeScope Active CIDS 
-ACTIVE_CID = ["816017", "816467"]
+# GradeScope Active CIDS (Check it on Website via Inspection)
+ACTIVE_CID = ["", ""]
 calendar = GradescopeCalendar(EMAIL, PASSWORD, IS_INSTRUCTOR, ACTIVE_CID)
 calendar.write_to_gcal(GCAL_ID)
