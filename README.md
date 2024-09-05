@@ -10,5 +10,5 @@ Forked from: [calvinatian/gradescope-calendar](https://github.com/calvinatian/gr
 ### Reminder
 - Check Modified Parts of Library as mentioned in `index.py`
 - My coding style in Python is :shit:, so don't expect good readability 
-- Let's not miss any homeworks on gradework :smile: 
+- Let's not miss any homeworks on gradescope :smile: 
 - It was designed to be used in Linux (Debian) with crontab
