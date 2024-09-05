@@ -1,0 +1,5 @@
+venv/* 
+!venv/**/gradescopecalendar*/
+!venv/**/gradescopecalendar/**
+*.json
+*.log
